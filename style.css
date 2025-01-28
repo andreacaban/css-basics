@@ -1,28 +1,32 @@
-#h1{
-    background-color: rgb(151, 77, 3);
-    text-align: center;
-    padding: 7%;
-    margin: 0px;
-   
-
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-#nav{
-    background-color: rgba(186, 123, 47, 0.75);
-    padding: 5%;
+.header{
+    background-color: #6b3d1d;
+    color: #000000;
+    text-align: center;
+    padding: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav{
     color: green;
+    background-color: #D1AB74;
+    padding: 10px;
     text-align: center;
 }
-.back{
-    background-color: rgba(186, 123, 47, 0.75);
-    padding: 5%;
-}
 
+.content{
 
-#text{
-    color: rgb(113, 48, 8);
+    background-color: #D1AB74;
+    padding: 20px;
 }
-#foot{
-    background-color:  rgba(186, 123, 47, 0.75);
-    padding: 5%;
+#p1{
+    color: rgb(121, 45, 10);
+}
+#copyright{
+    background-color: #D1AB74;
+    padding: 22px;
     text-align: center;
 }
