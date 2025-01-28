@@ -1,0 +1,28 @@
+#h1{
+    background-color: rgb(151, 77, 3);
+    text-align: center;
+    padding: 7%;
+    margin: 0px;
+   
+
+}
+#nav{
+    background-color: rgba(186, 123, 47, 0.75);
+    padding: 5%;
+    color: green;
+    text-align: center;
+}
+.back{
+    background-color: rgba(186, 123, 47, 0.75);
+    padding: 5%;
+}
+
+
+#text{
+    color: rgb(113, 48, 8);
+}
+#foot{
+    background-color:  rgba(186, 123, 47, 0.75);
+    padding: 5%;
+    text-align: center;
+}
